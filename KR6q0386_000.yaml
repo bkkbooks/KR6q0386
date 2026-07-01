@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0386/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 憨山老人夢遊集
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X73/X73n1456.xml
+    old_id: X73n1456
+hash: sha256:3920ae074321ca3cfbd27b06ba48ce9a3359ac1d45d01bdbe8ce23f536e4e00d
